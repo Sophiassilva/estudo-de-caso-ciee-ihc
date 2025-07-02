@@ -36,9 +36,9 @@ Período          | Atividade                                                   
 ### 🏁 Sprint 5 (05/06- 30/06)
 Período          | Atividade                                                                                        | Responsáveis              | Status       |
 -----------------|--------------------------------------------------------------------------------------------------|---------------------------|--------------|
-05/06 - 19/06    | Finalização da prototipação                                                                      | Todos                     | ⌛    |
+05/06 - 19/06    | Finalização da prototipação                                                                      | Todos                     | ✅    |
 09/06 - 11/06    | Batalha #2 (Até território 12)                                                                   | Todos                     | ✅    |
-19/06 - 26/06    | Análise do projeto final com os usuários                                                         | Dylan, Lucas e Sophia     | ⛔    |
-26/06 - 26/06    | Reunião de análise final do projeto e elaboração da apresentação                                 | Todos                     | ⛔    |
-26/06 - 28/06    | Elaboração dos slides de apresentação final                                                      | Todos    | ⛔    |
-30/06 - 30/06    | Rito final (Apresentação final do projeto    )                                                   | Todos  | ⛔    |
+19/06 - 26/06    | Análise do projeto final com os usuários                                                         | Dylan, Lucas e Sophia     | ✅   |
+26/06 - 26/06    | Reunião de análise final do projeto e elaboração da apresentação                                 | Todos                     | ✅    |
+26/06 - 28/06    | Elaboração dos slides de apresentação final                                                      | Todos    | ✅    |
+30/06 - 30/06    | Rito final (Apresentação final do projeto    )                                                   | Todos  | ✅    |
