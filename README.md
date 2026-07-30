@@ -4,7 +4,7 @@ Projeto prático de UX (Experiência de Usuário) onde realizamos um estudo de c
 
 ### Participantes
 
-<table align="center"></table>>
+<table align="center">
     <tr>
         <td align="center">
             <img src="https://avatars.githubusercontent.com/u/162454522?v=4" width=100><br>
